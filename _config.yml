@@ -14,16 +14,16 @@ author:
   avatar           : "bio-photo.jpg" # Make sure to upload your photo to /images/ and name it this
   name             : "Oussama Hadoune"
   pronouns         : "He/Him"
-  bio              : "PhD in Embedded Electronics. Specializing in Energy Harvesting, Power Management, and Autonomous IoT Systems."
-  location         : "Mimet, France"
+  bio              : "PhD in Embedded Electronics."
+  location         : "Gardanne, France"
   employer         : "École des Mines de Saint-Étienne"
   email            : "Hadouneoussama@gmail.com" 
 
   # Academic websites
-  googlescholar    : "" # Add your link here if you have one
-  orcid            : "" # Add your ORCID link here
+  googlescholar    : "https://scholar.google.com/citations?user=FVBkGoMAAAAJ&hl=fr " # Add your link here if you have one
+  orcid            : "https://orcid.org/0000-0003-0843-2767" # Add your ORCID link here
   linkedin         : "https://www.linkedin.com/in/oussama-hadoune/"
-  researchgate     : "" 
+  researchgate     : "https://www.researchgate.net/profile/Oussama-Hadoune?ev=hdr_xprf" 
 
   # Repositories and software development
   github           : "HadouneOussama"
