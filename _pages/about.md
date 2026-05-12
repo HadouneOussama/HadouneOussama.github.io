@@ -1,4 +1,11 @@
-
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 ## About me
 
 I'm a postdoctoral researcher at [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/), working on energy harvesting through NFC emitters integrated into textiles. Before that, I spent a year and a half at Télécom Paris within the [Energy4Climate (E4C)](https://e4c.ip-paris.fr/) initiative, where I built autonomous weather monitoring stations from scratch — full PCB design, solar harvesting, LoRa communication, STM32 with Zephyr RTOS, the whole stack.
