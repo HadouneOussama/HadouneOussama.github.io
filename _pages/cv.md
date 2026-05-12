@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 Education
 ======
 * **Ph.D. in Embedded Electronics**, Badji Mokhtar University, Annaba, Algeria, 2019–2024
@@ -73,21 +84,32 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **[J2]** Laiadi, O., Remadna, I., Laiadi, M. E. A., **Hadoune, O.**, Drai, R., & Zerhouni, N. (2026). "GraphDARTS: Contrastive graph metric learning for unsupervised differentiable architecture search in Structural Health Monitoring." *Mechanical Systems and Signal Processing*, 253, 114292.
 
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* **[J1]** **Hadoune, O.**, & Benouaret, M. (2022). "ANFIS multi-tasking algorithm implementation scheme for ball-on-plate system stabilization." *Indonesian Journal of Electrical Engineering and Informatics (IJEEI)*, 10(4), 983–995. doi: 10.52549/ijeei.v10i4.4216
+
+* **[C5]** Mohammedi, K., **Hadoune, O.**, Belhouari, S. (2024). "Advanced Medical Image Reconstruction Using the Dual Encoder Split Path Autoencoder (DESPAE) Architecture." *7th International Conference on Digital Medicine and Image Processing (DMIP 2024)*, Ritsumeikan University, Osaka, Japan. ACM. doi: 10.1145/3705927.3705950
+
+* **[C4]** **Hadoune, O.**, Benouaret, M., Zeghida, A. (2022). "Control of a 2-DOF parallel robot using Fuzzy Logic Controller." *1st International Symposium on Industrial Engineering, Maintenance and Safety*, Oran, Algeria.
+
+* **[C3]** **Hadoune, O.**, Benouaret, M. (2022). "Fuzzy-PID tracking control of a ball and plate system using a 6-DOF parallel robot." *19th IEEE International Multi Conference on Systems, Signals & Devices (SSD 2022)*. doi: 10.1109/SSD54932.2022.9955768
+
+* **[C2]** **Hadoune, O.**, Benouaret, M., & Guellati, M. F. (2021). "Design and implementation of a fully automated system dedicated to the control of an egg incubator." *The European Journal of Technology*, (28), 368–374. doi: 10.31590/ejosat.1000315
+
+* **[C1]** **Hadoune, O.**, Benouaret, M., Zeghida, A., & Saker, H. (2021). "Tracking control of a ball on plate system using PID controller and Lead/Lag compensator with a double loop feedback scheme." *The European Journal of Technology*, (28), 375–380. doi: 10.31590/ejosat.1000437
+
+* **[CH2]** **Hadoune, O.**, Benouaret, M., Guellati, M. (2021). "Design and realization of fully automatic egg incubator using PID controller." *1st International Conference on Applied Engineering and Natural Sciences (ICAENS 2021)*, Konya, Turkey. ISBN: 978-625-00-0389-3.
+
+* **[CH1]** **Hadoune, O.**, Benouaret, M., Zeghida, A. (2021). "Control of a ball on a plate system using PID controller and Lead/Lag compensator." *1st International Conference on Applied Engineering and Natural Sciences (ICAENS 2021)*, Konya, Turkey. ISBN: 978-625-00-0389-3.
 
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Computer Architecture** (L2) — Numidia Institute of Technology, 2023–2024
+* **Microcontroller Programming** (M1) — Badji Mokhtar University, 2020–2022
+* **Industrial Robotics** (M1) — Badji Mokhtar University, 2020–2022
+* **Non-linear Systems Control** (L3) — Badji Mokhtar University, 2020–2022
+* **MATLAB Programming** (L1) — Badji Mokhtar University, 2020–2022
+* **SIEMENS Simatic / TIA Portal** (vocational training) — Azm School, 2019
 
 Service and leadership
 ======
@@ -96,4 +118,4 @@ Service and leadership
 * 3rd place — National Startup Conference, Algerian Ministry of Startups (2021/2022), among 54 projects
 * 2nd place — National Robotics Competition, Badji Mokhtar University (2022/2023)
 * Certified: NVIDIA Deep Learning Fundamentals
-* Startup Label — delivered by the Algerian Startup Ministry
+* Startup Label — Algerian Startup Ministry
